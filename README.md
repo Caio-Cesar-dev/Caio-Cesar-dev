@@ -1,8 +1,8 @@
 ### Olá! Eu sou Caio César 👋
 
 
-- 🔭 Hoje trabalho na Caixa Econômica Federal
-- 🌱 Estou estudando várias tecnologias ... com pretenção a uma vaga na carreira de TI
+- :bank: Trabalho na rede de varejo da Caixa Econômica Federal e prentendo ingressar na área de TI :computer:
+- 🌱 Algumas tecnologias que ando estudando ..
 
 <div style="display inline_block" ><br>
     <img align="center" alt="Caio-pY" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
